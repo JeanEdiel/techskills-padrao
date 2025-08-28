@@ -1,0 +1,9 @@
+# Ignorar as seguintes pastas
+/dist
+/node_modules
+
+# Ignorar os seguintes arquivos
+.env
+.env.dev
+.env.hml
+.env.prd
